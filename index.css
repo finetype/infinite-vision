@@ -1,0 +1,15 @@
+* {
+	
+}
+
+.flyer {
+    width: 100%;
+    max-width: 1200px;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
+nav {
+	color: #8FC644;
+	/*this doesn't work, but leaving the color here for reference*/
+}
