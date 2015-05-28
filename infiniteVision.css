@@ -3,7 +3,8 @@
 }
 
 img {
-    max-width: 100%;
+    width: 100%;
+    max-width: 900px;
     height: auto;
     width: auto\9; /* ie8 */
 }
