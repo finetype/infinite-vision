@@ -1,0 +1,41 @@
+README
+
+To-Do:
+
+	1. Content for:
+		About
+		Contact
+
+	2. Details tab needs to be thought out, and javascript 'slidedown' functionality added (see: 
+		http://stackoverflow.com/questions/12115833/adding-a-slide-effect-to-bootstrap-dropdown  
+		http://stackoverflow.com/questions/11112267/how-can-i-make-the-dropdown-on-boostrap-navigation-to-slide-down-and-up-smoothly?lq=1)
+
+	3. Lightbox gallery needs to be fixed. 
+		http://ashleydw.github.io/lightbox/#image-gallery
+		http://www.bootply.com/ZGz7LHUFNt
+
+	4. 'Downloads' needs to have stuff linked properly, added, and reformatted: Flyers will be images of themselves, which, when clicked, download the pdf. Etc. I'm thinking four items horizontally beside each other.
+
+	5. Mobile menu is a little messy. 
+		Might consider option on bottom of this page:  http://www.w3schools.com/bootstrap/bootstrap_case_navigation.asp 
+		http://stackoverflow.com/questions/9405610/how-to-change-navbar-collapse-threshold-using-twitter-bootstrap-responsive
+
+	6. Header? 
+		Maybe a catch line? 
+		Maybe removing it altogether? 
+		Maybe a green gradient? 
+		Maybe the logo?
+		Project name?
+		Jumbotron?
+
+	7. Menu bar colorized? 
+		http://work.smarchal.com/twbscolor/css/e74c3cc0392becf0f1ffbbbc0
+
+	8. Menu bar centered? 
+		http://stackoverflow.com/questions/18777235/center-content-in-responsive-bootstrap-navbar
+
+	9. Home page... Slideshow or Flyer?
+
+	10. Slideshow needs to be made responsive
+		http://getbootstrap.com/components/#responsive-embed
+		http://www.smashingmagazine.com/2014/02/27/making-embedded-content-work-in-responsive-design/
