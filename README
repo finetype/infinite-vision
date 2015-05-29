@@ -14,10 +14,10 @@ To-Do:
 		http://ashleydw.github.io/lightbox/#image-gallery
 		http://www.bootply.com/ZGz7LHUFNt
 
-	4. 'Downloads' needs to have stuff linked properly, added, and potentially needs prettier formatting
+	4. 'Downloads' needs to have stuff linked properly, added, and reformatted: Flyers will be images of themselves, which, when clicked, download the pdf. Etc. I'm thinking four items horizontally beside each other.
 
-	5. Mobile menu is a little messy. Might consider option on bottom of this page: 
-		http://www.w3schools.com/bootstrap/bootstrap_case_navigation.asp 
+	5. Mobile menu is a little messy. 
+		Might consider option on bottom of this page:  http://www.w3schools.com/bootstrap/bootstrap_case_navigation.asp 
 		http://stackoverflow.com/questions/9405610/how-to-change-navbar-collapse-threshold-using-twitter-bootstrap-responsive
 
 	6. Header? 
@@ -25,6 +25,8 @@ To-Do:
 		Maybe removing it altogether? 
 		Maybe a green gradient? 
 		Maybe the logo?
+		Project name?
+		Jumbotron?
 
 	7. Menu bar colorized? 
 		http://work.smarchal.com/twbscolor/css/e74c3cc0392becf0f1ffbbbc0
