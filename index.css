@@ -18,3 +18,9 @@ nav {
 .overflowFix {
 	padding: 0 15px;
 }
+
+#llama {
+	max-width: 1600px;
+	margin-left: auto;
+	margin-right: auto;
+}
