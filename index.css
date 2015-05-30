@@ -18,3 +18,8 @@ nav {
 .overflowFix {
 	padding: 0 15px;
 }
+
+p {
+	font-family: 'Syncopate', sans-serif;
+	font-size:12px;
+}
