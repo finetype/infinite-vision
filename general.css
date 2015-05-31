@@ -8,6 +8,11 @@ p {
 	font-size:20px;
 }
 
+.thumbnail {
+	font-family: sans-serif;
+	text-align: center;
+}
+
 .navbar-default {
   background-color: #8FC644;
   border-color: #8FC644;
