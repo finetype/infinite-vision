@@ -10,19 +10,18 @@ To-Do:
 		http://stackoverflow.com/questions/12115833/adding-a-slide-effect-to-bootstrap-dropdown  
 		http://stackoverflow.com/questions/11112267/how-can-i-make-the-dropdown-on-boostrap-navigation-to-slide-down-and-up-smoothly?lq=1)
 
-	3. Lightbox gallery needs to be fixed. 
+	K3. Lightbox gallery needs to be fixed. 
 		http://ashleydw.github.io/lightbox/#image-gallery
 		http://www.bootply.com/ZGz7LHUFNt
 
-	K4. 'Downloads' needs to have stuff linked properly, added, and reformatted: Flyers will be images of themselves, which, when clicked, download the pdf. Etc. I'm thinking four items horizontally beside each other.
+	K4. 'Downloads' needs to have stuff added, and reformatted: Flyers will be images of themselves, which, when clicked, download the pdf. Etc. I'm thinking four items horizontally beside each other.
 
-	R5. Mobile menu is a little messy. 
-		Completed.
+	5. Alt index pages/flyer mod: 
+		slideshow + black bar + black logo
+		dblue flyer + black bar + text
 
 	R6. Header? 
 		Maybe a catch line? 
-		Maybe removing it altogether? 
-		Maybe a green gradient? 
 		Maybe the logo - R*uploaded to the site, not sure if it’ll work*
 		Project name?
 		Jumbotron?
@@ -30,13 +29,14 @@ To-Do:
 	R7. Menu bar colorized? 
 		Completed
 		K - Approve or disapprove?
+		Meh. Good job, just not my color taste. xD 
+		Will leave it to uncle/mom to pick, good to have the option though.
 
 	8. Menu bar centered? 
 		http://stackoverflow.com/questions/18777235/center-content-in-responsive-bootstrap-navbar
 
 	9. Home page... Slideshow or Flyer?
 		R*I’m thinking flyer.*
+		K I think the flyer is a better choice too, but we can just leave it for my uncle to decide.
 
-	10. Slideshow needs to be made responsive
-		Completed.
 
