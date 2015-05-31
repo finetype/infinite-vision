@@ -2,7 +2,7 @@ README
 
 To-Do:
 
-	K1. Content for:
+	1. Content for:
 		About
 		Contact
 
@@ -14,29 +14,29 @@ To-Do:
 		http://ashleydw.github.io/lightbox/#image-gallery
 		http://www.bootply.com/ZGz7LHUFNt
 
-	K4. 'Downloads' needs to have stuff linked properly, added, and reformatted: Flyers will be images of themselves, which, when clicked, download the pdf. Etc. I'm thinking four items horizontally beside each other.
+	4. 'Downloads' needs to have stuff linked properly, added, and reformatted: Flyers will be images of themselves, which, when clicked, download the pdf. Etc. I'm thinking four items horizontally beside each other.
 
-	R5. Mobile menu is a little messy. 
-		Completed.
+	5. Mobile menu is a little messy. 
+		Might consider option on bottom of this page:  http://www.w3schools.com/bootstrap/bootstrap_case_navigation.asp 
+		http://stackoverflow.com/questions/9405610/how-to-change-navbar-collapse-threshold-using-twitter-bootstrap-responsive
 
-	R6. Header? 
+	6. Header? 
 		Maybe a catch line? 
 		Maybe removing it altogether? 
 		Maybe a green gradient? 
-		Maybe the logo - R*uploaded to the site, not sure if it’ll work*
+		Maybe the logo?
 		Project name?
 		Jumbotron?
 
-	R7. Menu bar colorized? 
-		Completed
-		K - Approve or disapprove?
+	7. Menu bar colorized? 
+		http://work.smarchal.com/twbscolor/css/e74c3cc0392becf0f1ffbbbc0
 
 	8. Menu bar centered? 
 		http://stackoverflow.com/questions/18777235/center-content-in-responsive-bootstrap-navbar
 
 	9. Home page... Slideshow or Flyer?
-		R*I’m thinking flyer.*
 
 	10. Slideshow needs to be made responsive
-		Completed.
+		http://getbootstrap.com/components/#responsive-embed
+		http://www.smashingmagazine.com/2014/02/27/making-embedded-content-work-in-responsive-design/
 
