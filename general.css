@@ -21,6 +21,11 @@ p {
 .navbar-default .navbar-text {
   color: #383838;
 }
+
+.navbar-header {
+  color: #383838;
+}
+
 .navbar-default .navbar-nav > li > a {
   color: #383838;
 }
@@ -36,7 +41,7 @@ p {
   background-color: #8bc63e;
 }
 .navbar-default .navbar-toggle {
-  border-color: #8bc63e;
+  border-color: #383838;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
   background-color: #8bc63e;
