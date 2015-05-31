@@ -14,29 +14,14 @@ To-Do:
 		http://ashleydw.github.io/lightbox/#image-gallery
 		http://www.bootply.com/ZGz7LHUFNt
 
-	K4. 'Downloads' needs to have stuff added, and reformatted: Flyers will be images of themselves, which, when clicked, download the pdf. Etc. I'm thinking four items horizontally beside each other.
-
-	5. Alt index pages/flyer mod: 
+	4. Alt index pages/flyer mod: 
 		slideshow + black bar + black logo
 		dblue flyer + black bar + text
 
-	R6. Header? 
+	5. Other possible header prettyness? 
 		Maybe a catch line? 
-		Maybe the logo - R*uploaded to the site, not sure if it’ll work*
 		Project name?
 		Jumbotron?
+		Background color?
 
-	R7. Menu bar colorized? 
-		Completed
-		K - Approve or disapprove?
-		Meh. Good job, just not my color taste. xD 
-		Will leave it to uncle/mom to pick, good to have the option though.
-
-	8. Menu bar centered? 
-		http://stackoverflow.com/questions/18777235/center-content-in-responsive-bootstrap-navbar
-
-	9. Home page... Slideshow or Flyer?
-		R*I’m thinking flyer.*
-		K I think the flyer is a better choice too, but we can just leave it for my uncle to decide.
-
-
+	6. fix download page sidescroll

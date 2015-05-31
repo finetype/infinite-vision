@@ -13,6 +13,10 @@ p {
 	text-align: center;
 }
 
+.overflowFix {
+	padding: 0 15px;
+}
+
 .navbar-default {
   background-color: #8FC644;
   border-color: #8FC644;
