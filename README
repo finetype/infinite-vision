@@ -14,14 +14,12 @@ To-Do:
 		http://ashleydw.github.io/lightbox/#image-gallery
 		http://www.bootply.com/ZGz7LHUFNt
 
-	4. Alt index pages/flyer mod: 
-		slideshow + black bar + black logo
-		dblue flyer + black bar + text
+	R4. Alt index pages/flyer mod: 
+		*Completed.* slideshow + black bar + black logo (under slideshow.html, linked to from the infinite symbol)
+		*Completed.* dblue flyer + black bar + text (under alt.html)
 
 	5. Other possible header prettyness? 
 		Maybe a catch line? 
 		Project name?
 		Jumbotron?
-		Background color?
-
-	6. fix download page sidescroll
+		Background color?   
