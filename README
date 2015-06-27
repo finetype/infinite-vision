@@ -10,16 +10,10 @@ To-Do:
 		http://stackoverflow.com/questions/12115833/adding-a-slide-effect-to-bootstrap-dropdown  
 		http://stackoverflow.com/questions/11112267/how-can-i-make-the-dropdown-on-boostrap-navigation-to-slide-down-and-up-smoothly?lq=1)
 
-	K3. Lightbox gallery needs to be fixed. 
-		http://ashleydw.github.io/lightbox/#image-gallery
-		http://www.bootply.com/ZGz7LHUFNt
-
-	R4. Alt index pages/flyer mod: 
-		*Completed.* slideshow + black bar + black logo (under slideshow.html, linked to from the infinite symbol)
-		*Completed.* dblue flyer + black bar + text (under alt.html)
-
-	5. Other possible header prettyness? 
+	3. Other possible header prettyness? 
 		Maybe a catch line? 
 		Project name?
 		Jumbotron?
 		Background color?   
+
+	NOTE: to change lightbox size, edit .modal-dialog class in renderings.css
