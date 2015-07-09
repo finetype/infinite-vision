@@ -1,5 +1,6 @@
 .modal-dialog {
-
+	width:95%;
+	max-width:2000px;
 }
 
 .thumbnail {
@@ -11,4 +12,3 @@
   margin-top:10%;
   width:5%;
 }
-
