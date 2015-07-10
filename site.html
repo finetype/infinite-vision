@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Lake Country Town Center - Site Information</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <link rel='stylesheet' type="text/css" href='site.css'/>
+    <link rel='stylesheet' type="text/css" href='general.css'/>
+    <link href='http://fonts.googleapis.com/css?family=Syncopate:700' rel='stylesheet' type='text/css'>
+
+  </head>
+  <body>
+  <h1><img src="images/InfiniteVisionPropertiesLogoLarge.png" width="20%"></h1>
+  <nav class="navbar navbar-default">
+    <div class="container-fluid">
+      <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="slideshow.html"> ∞ </a>
+      </div>
+      <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+          <li><a href="index.html">Main</a></li>
+          <li><a href="renderings.html">Renderings</a></li> 
+          <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Details
+                <span class="caret"></span>
+              </a>
+               <ul class="dropdown-menu">
+                <li class="active"><a href="site.html">Site Information</a></li>
+                <li><a href="locale.html">Locale & Trade Area</a></li>
+              </ul>
+          </li>
+          <li><a href="downloads.html">Downloads</a></li>
+          <li><a href="contact.html">Contact</a></li> 
+        </ul>
+      </div>
+    </div>
+  </nav>
+  
+  <div class="container">
+    <div class="row">
+      <h1>Site & Layout</h1>
+        <hr>
+        <div class="row"> 
+          <div class="col-12 col-md-6">
+            <a title="Image 1" href="#"> 
+              <img class="thumbnail img-responsive" title="" id="image-1" src="images/site1.png">
+            </a>
+          </div>
+        
+          <div class="col-12 col-md-6">
+            <a title="Image 2" href="#"> 
+              <img class="thumbnail img-responsive" title="" id="image-2" src="images/Overview1.jpg">
+            </a>
+          </div>
+        </div>
+      <hr>
+    </div>
+  </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <h2 class="text-center">
+            <b>Location Details</b>
+          </h2>
+          <p>
+            The site is located at the northwest corner of I-30 and Highway 271.
+            Total acreage upon completion will be approximately 54 acres with 6 pad sites, multiple anchor pads, over 136,000 GLA and 40,500 residential rental units planned.
+            <br /> <br />
+            Highway 271 was extended to be a loop around Mt. Pleasant in the fall of 2014
+            The new loop has opened access to new trade areas that can be easily accessed by the new loop.
+            <br /> <br />
+            Traffic Counts: <br />
+            Highway 271: 14,700 <br />
+            I-30: 25,000 
+          </p>  
+          <br />
+        </div>
+      <div class="col-md-6">
+          <h2 class="text-center">
+            <b>Development Details</b>
+          </h2>
+          <p class="text-center">
+            <b>Project Acreage:</b> 54 acres <br /><br />
+            <b>Project GLA:</b> 107,117 SF<br /><br />
+            <b>Anchor Pads:</b> 2 pads @ 88,700 SF<br /><br />
+            <b>Pad Sites:</b> 6 from ½ acre to 5 acres<br /><br />
+            <b>Residential Space:</b> 40,500 SF<br /><br />
+            <b>Construction Start:</b> Winter 2015<br /><br />
+            <b>Phase 1 Delivery:</b> Summer 2016
+          </p>  
+        </div>
+      </div>
+    </div>
+    <br />
+    <br />
+    <br />
+
+    <div class="hidden" id="img-repo">
+      <!-- #image-1 -->
+      <div class="item" id="image-1">
+        <img class="thumbnail img-responsive img-center" title="" src="images/site1.png">
+      </div>
+      <div class="item" id="image-1">
+        <img class="thumbnail img-responsive" title="" src="images/Overview1.jpg">
+      </div>
+        
+      <!-- #image-2 -->
+      <div class="item" id="image-2">
+        <img class="thumbnail img-responsive" title="" src="images/Overview1.jpg">
+      </div>
+      <div class="item" id="image-2">
+        <img class="thumbnail img-responsive img-center" title="" src="images/site1.png">
+      </div>
+    </div>
+
+    <div class="modal" id="modal-gallery" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+              <button class="close" type="button" data-dismiss="modal">×</button>
+              <h3 class="modal-title"></h3>
+          </div>
+          <div class="modal-body">
+              <div id="modal-carousel" class="carousel">
+       
+                <div class="carousel-inner">           
+                </div>
+                
+                <a class="carousel-control left" href="#modal-carousel" data-slide="prev"><i class="glyphicon glyphicon-chevron-left"></i></a>
+                <a class="carousel-control right" href="#modal-carousel" data-slide="next"><i class="glyphicon glyphicon-chevron-right"></i></a>
+                
+              </div>
+          </div>
+          <div class="modal-footer">
+              <button class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="renderings.js"></script>
+  </body>
+</html>

@@ -28,7 +28,7 @@ $(document).ready(function(){
       // show the modal
     	$("#modal-gallery").modal("show");
   });
-      // added for arrow keyboard shortcuts
+
       $(document).bind('keyup', function(e) {
         if(e.which == 39){
             $('.carousel').carousel('next');

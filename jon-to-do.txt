@@ -1,8 +1,8 @@
-renderings-- when sized as if 2 across, bigger lightbox, link to full size screen? instructions for ctrl+/ctrl-?
+DONE!renderings-- when sized as if 2 across, bigger lightbox, link to full size screen? instructions for ctrl+/ctrl-?
 
 home page--replace siteplan on main flyer with renderings
 
-new full flyers to downloads page
+DONE!new full flyers to downloads page
 
 Powerpoint -- replace page four with proper outline picture from revised flyer
 
@@ -12,6 +12,6 @@ on powerpoint -- lowercase s in logo?
 
 and replace the downloadable version with new version
 
-contact -- name/phone/address 21 N Jefferson/email infinitevision111@gmail.com/
+DONE!contact -- name/phone/address 21 N Jefferson/email infinitevision111@gmail.com/
 
-remove 'about' page
+DONE!remove 'about' page
