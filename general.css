@@ -7,6 +7,10 @@ p {
 	
 }
 
+li {
+  text-align:center;
+}
+
 .thumbnail {
 	font-family: sans-serif;
 	text-align: center;
