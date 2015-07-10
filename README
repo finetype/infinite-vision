@@ -2,15 +2,11 @@ README
 
 To-Do:
 
-	K1. Content for:
-		
-		Contact
-
-	//2. Details tab needs to be thought out, and javascript 'slidedown' functionality added (see: 
+	//1. Details javascript 'slidedown' functionality added (see: 
 		http://stackoverflow.com/questions/12115833/adding-a-slide-effect-to-bootstrap-dropdown  
 		http://stackoverflow.com/questions/11112267/how-can-i-make-the-dropdown-on-boostrap-navigation-to-slide-down-and-up-smoothly?lq=1)
 
-	//3. Other possible header prettyness? 
+	//2. Other possible header prettyness? 
 		Maybe a catch line? 
 		Project name?
 		Jumbotron?
