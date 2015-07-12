@@ -1,0 +1,48 @@
+-left aligned details tab
+-renderings size changes, rotate vertical image
+-crop site-plan map
+-pdf on left + try to increase size to take up two spots.
+-leakage analysis zoom in
+-size changes to more similar, rotate vertical image to horizontal
+-card info
+-
+
+downloads as viewable image carousel
+flyers vs. downloads
+old flyer
+payment info for server and URL
+
+
+----
+
+So, this is what I'm thinking.
+
+These are the things that will be done within the original $1250 price:
+
+-left aligned text in details tab
+-renderings page image adjustments
+-crop left side of site map
+-leakage analysis zoom in
+-handling of URL registration/subscription* (infinitevisionproperties.com) 
+-handling of Server subscription*
+-setting the webpage up on the server and setting it so the URL routes to the website correctly.
+
+*URL and server space cost is, as we discussed, a separate fee that is outside of the 1250. I'm indicating the work in setting it all up.
+
+
+These are things that are outside of the $1250 price:
+
+-pdf thumbnail adjustments
+-change 'downloads' page to full screen images
+
+A quick search confirmed my thoughts; I can't control what happens to a pdf. One thing that keeps the internet safe is that you cannot force people to open things they download. It is possible for me to display images of the PDF flyers similar to the functionality of the 'renderings' page, that will take some extra work. I can use a similar method for the PDF 'presentation', so that when you click on that, you get a series of images you can cycle through with your keyboard. Both of those options will take extra time. The adjustment of the thumbnail for the presentation in the way desired could be very simple, or it could be frustrating and take some work.
+
+My quote for those features would be $200. 
+
+As for site maintenance, I don't want to abandon you with a site you can't edit, but I don't want to be working for free from here on out while I'm very busy. I can work on an as-needed basis for $20/hr. Billing would be at the end of the month for cumulative time. Tasks can be expected to be finished within a week. If more than 5 hours of work are needed at any given time, specifics will be discussed on an as-needed basis.
+
+Another option is to a retainer of either 3 hrs/month for $50, or 10hrs/month for $150.
+
+Let me know how this sounds to you,
+
+Kyle

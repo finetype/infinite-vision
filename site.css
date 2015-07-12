@@ -1,5 +1,5 @@
 .modal-dialog {
-	width:90%;
+	width:60%;
 	max-width:2000px;
 }
 
@@ -11,4 +11,8 @@
   background-image:none;
   margin-top:10%;
   width:5%;
+}
+
+.carousel-inner img {
+  margin: auto;
 }
